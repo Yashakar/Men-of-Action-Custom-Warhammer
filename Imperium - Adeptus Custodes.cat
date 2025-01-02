@@ -43,7 +43,7 @@
     <entryLink id="3ab2-181b-28a4-6978" name="Shield-Captain" hidden="false" collective="false" import="true" targetId="b61c-b815-65c0-b1cc" type="selectionEntry"/>
     <entryLink id="afa2-9ab7-5385-547d" name="Shield-Captain in Allarus Terminator Armour" hidden="false" collective="false" import="true" targetId="6319-eeba-b717-bd86" type="selectionEntry"/>
     <entryLink id="ad15-ddf2-9dd4-71a" name="Shield-Captain on Dawneagle Jetbike" hidden="false" collective="false" import="true" targetId="58fa-4a25-a5af-1144" type="selectionEntry"/>
-    <entryLink id="87ec-de53-6df9-9c22" name="Trajann Valoris" hidden="false" collective="false" import="true" targetId="7d7c-c212-47a3-38e4" type="selectionEntry"/>
+    <entryLink id="87ec-de53-6df9-9c22" name=" Valoris" hidden="false" collective="false" import="true" targetId="7d7c-c212-47a3-38e4" type="selectionEntry"/>
     <entryLink id="1fd5-8cf0-bef3-3970" name="Valerian" hidden="false" collective="false" import="true" targetId="8103-2e01-5d6a-b761" type="selectionEntry">
       <infoLinks>
         <infoLink name="Deep Strike" id="68d9-62f1-04b1-6022" hidden="false" targetId="7cb5-dd6b-dd87-ad3b" type="rule"/>
@@ -1931,12 +1931,12 @@
       <profiles>
         <profile id="d583-46c4-e043-e8e2" name="Trajann Valoris" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
-            <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">8</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
-            <characteristic name="W" typeId="750a-a2ec-90d3-21fe">7</characteristic>
+            <characteristic name="W" typeId="750a-a2ec-90d3-21fe">9</characteristic>
             <characteristic name="LD" typeId="58d2-b879-49c7-43bc">5+</characteristic>
-            <characteristic name="OC" typeId="bef7-942a-1a23-59f8">2</characteristic>
+            <characteristic name="OC" typeId="bef7-942a-1a23-59f8">4</characteristic>
           </characteristics>
         </profile>
         <profile id="8ba8-1664-4bc8-3a2d" name="Feel No Pain" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
